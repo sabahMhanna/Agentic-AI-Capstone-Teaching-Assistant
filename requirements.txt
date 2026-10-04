@@ -1,0 +1,9 @@
+mcp<2
+langchain
+langgraph
+langchain-ollama
+python-docx
+python-pptx
+ipywidgets
+pypdf
+pymupdf

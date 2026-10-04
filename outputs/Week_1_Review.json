@@ -1,0 +1,30 @@
+{
+  "approved": true,
+  "curriculum_alignment": 5,
+  "completeness": 5,
+  "clarity": 5,
+  "retrieval_grounding": 5,
+  "powerpoint_quality": 5,
+  "visual_richness": 5,
+  "safety": 5,
+  "issues": [],
+  "overall_comment": "...",
+  "resource_quality_metrics": {
+    "slide_count": 14,
+    "visual_slide_count": 5,
+    "code_slide_count": 6,
+    "tutorial_source_slide_count": 2,
+    "worksheet_question_count": 6
+  },
+  "deterministic_pc_coverage": {
+    "pc1_1_nested_lists": true,
+    "pc1_2_positive_indexing": true,
+    "pc1_2_negative_indexing": true,
+    "pc1_2_append": true,
+    "pc1_2_insert": true,
+    "pc1_3_bubble_sort": true,
+    "pc1_3_sort": true,
+    "pc1_3_reverse": true,
+    "pc1_3_len": true
+  }
+}
